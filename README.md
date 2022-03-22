@@ -1,5 +1,14 @@
 # Lorca
 
+<table>
+<tr>
+<td>
+  This fork only exists to prevent Chrome to show the "Chrome is being controlled by automated test software" in the info-bar.
+  For more information see <a href="https://github.com/zserge/lorca/issues/167">#167</a>.
+</td>
+</tr>
+</table>
+
 [![Build Status](https://img.shields.io/github/workflow/status/zserge/lorca/CI%20Pipeline)](https://github.com/zserge/lorca)
 [![GoDoc](https://godoc.org/github.com/zserge/lorca?status.svg)](https://godoc.org/github.com/zserge/lorca)
 [![Go Report Card](https://goreportcard.com/badge/github.com/zserge/lorca)](https://goreportcard.com/report/github.com/zserge/lorca)
